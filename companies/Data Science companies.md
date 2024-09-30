@@ -75,14 +75,14 @@
     **Work Location**: Full-time in Egypt or abroad  
     **Details**: A Saudi-based fintech company with operations in Egypt.
 
-16. **Alinma Bank**  
-    LinkedIn: https://www.linkedin.com/company/alinma-bank/  
+16. **Alinma Bank**
+    LinkedIn: https://www.linkedin.com/company/ibm/  
     **Work Location**: Full-time abroad  
     **Details**: A Saudi Arabian bank, not based in Egypt.
-
-17. **IBM**
-    LinkedIn: https://www.linkedin.com/company/ibm/
-    **Work Location**: Full-time in Egypt
+    
+18. **IBM**
+    LinkedIn: https://www.linkedin.com/company/alinma-bank/  
+    **Work Location**: Full-time in Egypt  
     **Details**: A global technology and consulting company offering a range of solutions, including AI, cloud computing, and data analytics.
 
 # **Egyptian Companies:**
