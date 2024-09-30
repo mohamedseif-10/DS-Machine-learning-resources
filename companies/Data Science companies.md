@@ -1,4 +1,4 @@
-### **International Companies:**
+# **International Companies:**
 
 1. **Kiwilytics**  
    LinkedIn: https://www.linkedin.com/company/kiwilytics  
@@ -80,7 +80,7 @@
     **Work Location**: Full-time abroad  
     **Details**: A Saudi Arabian bank, not based in Egypt.
 
-### **Egyptian Companies:**
+# **Egyptian Companies:**
 
 1. **Banque Misr**  
    LinkedIn: https://www.linkedin.com/company/banque-misr/  
