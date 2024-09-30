@@ -81,9 +81,9 @@
     **Details**: A Saudi Arabian bank, not based in Egypt.
 
 17. **IBM**
-      LinkedIn: https://www.linkedin.com/company/ibm/
-      **Work Location**: Full-time in Egypt
-      **Details**: A global technology and consulting company offering a range of solutions, including AI, cloud computing, and data analytics.
+    LinkedIn: https://www.linkedin.com/company/ibm/
+    **Work Location**: Full-time in Egypt
+    **Details**: A global technology and consulting company offering a range of solutions, including AI, cloud computing, and data analytics.
 
 # **Egyptian Companies:**
 
